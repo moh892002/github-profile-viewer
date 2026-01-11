@@ -4,8 +4,9 @@
   >
     <div class="sm:mx-auto sm:w-full sm:max-w-md">
       <div class="text-center">
-        <h1 class="text-4xl font-bold text-gray-900 mb-2">
+        <h1 class="text-3xl font-bold text-gray-900 mb-2">
           GitHub Profile Viewer
+          by Mohammed S Bader
         </h1>
         <p class="text-gray-600 mb-8">
           Search for any GitHub user to view their profile, repositories, and
